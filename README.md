@@ -25,7 +25,7 @@ Aquí tienes algunas de las tecnologías y herramientas con las que trabajo habi
 ---
 
 ### 📊 Mis Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabianneferu&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
