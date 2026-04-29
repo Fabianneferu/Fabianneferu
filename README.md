@@ -17,10 +17,10 @@ Aquí tienes algunas de las tecnologías y herramientas con las que trabajo habi
 ---
 
 ### 🚀 Proyectos Destacados
-* **[Nombre del Proyecto 1]**: Breve descripción de lo que hace el proyecto y qué tecnologías usaste.
-    * [🔗 Enlace al repositorio]
-* **[Nombre del Proyecto 2]**: Breve descripción, por ejemplo: "Configuración de un dominio con Active Directory".
-    * [🔗 Enlace al repositorio]
+* CV Website: Una muestra de mi curriculum hecha en forma de página.
+    * [🔗https://github.com/Fabianneferu/cv-html]
+* Travel DashBoard: Una página web enfocada a información varia sobre distintas ciudades famosas en el mundo, incluyendo tiempo e intercambio de divisas.
+    * [🔗https://github.com/Fabianneferu/Pr-ctica-Travel-Dashboard]
 
 ---
 
@@ -30,8 +30,8 @@ Aquí tienes algunas de las tecnologías y herramientas con las que trabajo habi
 ---
 
 ### 📫 Contacto
-* **LinkedIn**: [Tu perfil de LinkedIn]
-* **Email**: [Tu correo electrónico]
+* **LinkedIn**: [(https://www.linkedin.com/in/eduard-fabian-neferu-57054122b/)]
+* **Email**: [nerfnefrox@gmail.com]
 
 <!--
 **Fabianneferu/Fabianneferu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
