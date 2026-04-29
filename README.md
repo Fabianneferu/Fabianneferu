@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Fabian! 👋
 
 ### Sobre mí
 Soy estudiante de ASIX (Administración de Sistemas Informáticos en Red) apasionado por la virtualización, la gestión de servidores y la automatización de procesos. Me encanta configurar infraestructuras robustas, asegurar redes y aprender constantemente sobre tecnologías cloud y Linux. Actualmente, enfoco mis proyectos en optimizar entornos de servidores y mejorar mis habilidades en scripting.
